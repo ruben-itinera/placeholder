@@ -1,6 +1,13 @@
 {
     "configuration": {
         "primary": "#eb34de",
-        "accent": "#f7f30c"
+        "accent": "#f7f30c",
+        "azienda": "101 Caffè",
+        "nickname": "NICK",
+        "permessi": {
+            "carico": "write",
+            "scarico": "read",
+            "configura": "hide"
+        }
     }
 }
